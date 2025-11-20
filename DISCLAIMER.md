@@ -1,6 +1,6 @@
 # ⚠️ DISCLAIMER
 
-**Version:** 3.0
+**Version:** 3.1
 **Date:** 2025-11-20
 **Applicable à:** Tous contenus analytiques d'investigation citoyenne critique
 
@@ -149,8 +149,8 @@ Toutes investigations listent systématiquement ce qui manque pour certitude abs
 
 **Contexte DSA (Digital Services Act, février 2024)** :
 - **Amendes potentielles** : 6% CA mondial (€162M pour X, €9Mds pour Meta si violations confirmées)
-- **ARCOM France** : Désignée coordinateur DSA (1er janvier 2025), pouvoirs renforcés par loi SREN (21 mai 2024) + décret 30 décembre 2024
-- **Enquête Commission UE contre X** : Ouverte 19 décembre 2023, violations préliminaires trouvées (dark patterns, Blue checkmark trompeur, transparence pub, accès chercheurs bloqué)
+- **ARCOM France** : Désignée coordinateur DSA par loi SREN (21 mai 2024), pouvoirs précisés par décret 30 décembre 2024 (n° 2024-1255)
+- **Enquête Commission UE contre X** : Ouverte 18 décembre 2023, violations préliminaires trouvées (dark patterns, Blue checkmark trompeur, transparence pub, accès chercheurs bloqué)
 - **Janvier 2025** : UE demande documentation détaillée algorithmes recommandation X (deadline 15 février 2025) + ordre préservation records changements algorithme 17 janv-31 déc 2025
 - **Catégories ciblées** : "désinformation politique", "narratifs alternatifs géopolitiques", "manipulation étrangère" (art. 34-35 DSA)
 
@@ -348,7 +348,7 @@ Toutes investigations listent systématiquement ce qui manque pour certitude abs
 - **Bernard Arnault (LVMH)** : Les Échos, Le Parisien, Paris Match (acquis octobre 2024 depuis Vivendi/Bolloré)
 - **Xavier Niel** : Le Monde, quotidiens régionaux, plusieurs hebdos
 - **Patrick Drahi** : A vendu Altice Media (BFMTV, RMC) à CMA CGM mars 2024 pour 1,55Md€
-- **Aides publiques 2020-2021** : Arnault 16M€/an, Le Monde (Niel) 18M€/2ans, Le Figaro 16M€, Libération 14,5M€
+- **Aides publiques 2020-2021** : Arnault (Les Échos + Le Parisien) 16M€ en 2021, Le Monde (Niel) 18M€ sur 2 ans, Le Figaro 16M€ sur 2 ans, Libération 14,5M€
 - Pluralisme menacé : voix alternatives désamplifiées (DSA, shadowban, concentration propriété)
 
 **Asymétrie informationnelle** :
